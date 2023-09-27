@@ -1,0 +1,75 @@
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:0:index of A is 0.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:0:index of A is 0 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:0:index of A is 0.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:2:index of Z is 25.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:2:index of Z is 25 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:2:index of Z is 25.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:4:index of K is 25.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:4:index of K is 25 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:4:index of K is 25.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:6:index of ! raises failure.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:6:index of ! raises failure is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:6:index of ! raises failure.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:8:index of [ raises failure.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:8:index of [ raises failure is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:8:index of [ raises failure.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:11:rl of wiring rotor_I and top letter A cause input position 0 to flow to 4.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:11:rl of wiring rotor_I and top letter A cause input position 0 to flow to 4 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:11:rl of wiring rotor_I and top letter A cause input position 0 to flow to 4.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:12:rl of wiring rotor_bacd and top letter A cause input position 2 to flow to 2.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:12:rl of wiring rotor_bacd and top letter A cause input position 2 to flow to 2 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:12:rl of wiring rotor_bacd and top letter A cause input position 2 to flow to 2.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:14:rl of wiring rotor_bacd and top letter C cause input position 24 to flow to 25.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:14:rl of wiring rotor_bacd and top letter C cause input position 24 to flow to 25 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:14:rl of wiring rotor_bacd and top letter C cause input position 24 to flow to 25.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:16:rl of wiring rotor_III and top letter O cause input position 14 to flow to 17.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:16:rl of wiring rotor_III and top letter O cause input position 14 to flow to 17 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:16:rl of wiring rotor_III and top letter O cause input position 14 to flow to 17.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:18:lr of wiring rotor_I and top letter B cause input position 0 to flow to 21.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:18:lr of wiring rotor_I and top letter B cause input position 0 to flow to 21 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:18:lr of wiring rotor_I and top letter B cause input position 0 to flow to 21.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:20:lr of wiring rotor_II and top letter Z cause input position 10 to flow to 2.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:20:lr of wiring rotor_II and top letter Z cause input position 10 to flow to 2 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:20:lr of wiring rotor_II and top letter Z cause input position 10 to flow to 2.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:22:refl of rotor_abcd with input pos 23 results in 23.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:22:refl of rotor_abcd with input pos 23 results in 23 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:22:refl of rotor_abcd with input pos 23 results in 23.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:24:refl of reflector_B with input pos 24 results in 0.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:24:refl of reflector_B with input pos 24 results in 0 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:24:refl of reflector_B with input pos 24 results in 0.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:26:refl of reflector_C with input pos 9 results in 3.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:26:refl of reflector_C with input pos 9 results in 3 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:26:refl of reflector_C with input pos 9 results in 3.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:28:cable (A, B) inserted test A.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:28:cable (A, B) inserted test A is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:28:cable (A, B) inserted test A.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:30:cable (D, C) and (B, A) inserted test C.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:30:cable (D, C) and (B, A) inserted test C is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:30:cable (D, C) and (B, A) inserted test C.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:32:Plugboard empty, lst of rotors empty, reflector_abcd.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:32:Plugboard empty, lst of rotors empty, reflector_abcd is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:32:Plugboard empty, lst of rotors empty, reflector_abcd.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:33:Plugboard empty, [oriented_rotor_I; oriented_rotor_II; oriented_rotor_III], reflector_B.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:33:Plugboard empty, [oriented_rotor_I; oriented_rotor_II; oriented_rotor_III], reflector_B is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:33:Plugboard empty, [oriented_rotor_I; oriented_rotor_II; oriented_rotor_III], reflector_B.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:35:Plugboard empty, [oriented_rotor_I; oriented_rotor_II; oriented_rotor_III], reflector_B.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:35:Plugboard empty, [oriented_rotor_I; oriented_rotor_II; oriented_rotor_III], reflector_B is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:35:Plugboard empty, [oriented_rotor_I; oriented_rotor_II; oriented_rotor_III], reflector_B.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:37:config_ex turns into config_ex'.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:37:config_ex turns into config_ex' is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:37:config_ex turns into config_ex'.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:39:config_ex_step_1 turns into config_ex_step_2.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:39:config_ex_step_1 turns into config_ex_step_2 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:39:config_ex_step_1 turns into config_ex_step_2.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:41:config_ex_step_3 turns into config_ex_step_4.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:41:config_ex_step_3 turns into config_ex_step_4 is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:41:config_ex_step_3 turns into config_ex_step_4.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:43:special cases of 4 rotors.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:43:special cases of 4 rotors is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:43:special cases of 4 rotors.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:45:OCAML through config_cipher becomes YNGXQ.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:45:OCAML through config_cipher becomes YNGXQ is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:45:OCAML through config_cipher becomes YNGXQ.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for A1:47:WANG through config_cipher becomes FLKZ.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for A1:47:WANG through config_cipher becomes FLKZ is successful.
+2023-02-09T05:05:42+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for A1:47:WANG through config_cipher becomes FLKZ.
